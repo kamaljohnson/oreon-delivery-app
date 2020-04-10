@@ -1,0 +1,2 @@
+rootProject.name='VendX Delivery'
+include ':app'
