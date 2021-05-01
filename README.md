@@ -1,1 +1,1 @@
-# vendx-delivery-app
+# oreon-delivery-app
